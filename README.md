@@ -1,4 +1,13 @@
-#🌿 Plant Disease Recognition System 
+# 🌿 Plant Disease Recognition System
+
+---
+
+### 🌱 Deep Learning–Based Plant Disease Detection using CNN & Flask
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-WebApp-black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A web-based Plant Disease Recognition System built using Flask, Deep Learning, and Computer Vision.
 The application allows users to upload an image of a plant leaf and get disease-related information such as disease name, cause, and cure.
