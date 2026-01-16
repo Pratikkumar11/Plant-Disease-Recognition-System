@@ -1,4 +1,4 @@
-🌿 Plant Disease Recognition System 
+#🌿 Plant Disease Recognition System 
 
 A web-based Plant Disease Recognition System built using Flask, Deep Learning, and Computer Vision.
 The application allows users to upload an image of a plant leaf and get disease-related information such as disease name, cause, and cure.
